@@ -12,7 +12,7 @@ Most of the work comes from:
 
 # Install
 ```shell
-npm install git+https://github.com/jabiinfante/node-mouse
+    npm install node-mouse --save
 ```
 
 # Usage

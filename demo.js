@@ -1,4 +1,4 @@
-var Mouse = require("./mouse.js");
+var Mouse = require("node-mouse");
 
 var m = new Mouse();
 
