@@ -1,0 +1,20 @@
+{
+  "name": "node-mouse",
+  "version": "0.0.1",
+  "description": "handle mouse events from /dev/input/[mouse[0-9]+|mice]",
+  "main": "mouse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brentertz/scapegoat.git"
+  },
+  "keywords": [
+    "mouse",
+    "events",
+    "handle"
+  ],
+  "author": "Javier Infante",
+  "license": "MIT"
+}
