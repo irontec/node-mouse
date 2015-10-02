@@ -1,6 +1,6 @@
 {
   "name": "node-mouse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "handle mouse events from /dev/input/[mouse[0-9]+|mice]",
   "main": "mouse.js",
   "scripts": {
